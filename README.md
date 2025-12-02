@@ -140,12 +140,6 @@ python data/generate_sample_data.py
 pip install jupyter notebook
 jupyter notebook --port=8888
 ```
-
----
-
-## �📸 Sample Dashboard
-*(Add screenshot of Looker Studio dashboard here once created)*  
-
 ---
 
 ## 🔮 Next Steps
